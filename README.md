@@ -298,14 +298,6 @@ pydantic==2.6.0
 
 ---
 
-## 🚨 Known Issues
-
-- **Google Jobs removed** - JobSpy's Google scraper currently errors out, so we disabled it
-- **Rate limits** - Job sites may rate-limit heavy usage (use reasonable intervals)
-- **Dynamic content** - Some job details might be incomplete depending on source site
-
----
-
 ## 🤝 Contributing
 
 Contributions welcome! 
